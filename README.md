@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Gatsby**
 
-- 👨‍💻 All of my projects are available at [https://sukanya-sen-info.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sukanya-sen-info.netlify.app)
 
 - 📫 How to reach me **sukanya333sen@gmail.com**
 
