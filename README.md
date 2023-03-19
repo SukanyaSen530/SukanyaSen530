@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React Projects.**
 
-- 🌱 I’m currently learning **Typescript and Gatsby**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sukanya-sen-info.netlify.app)
 
